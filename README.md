@@ -55,7 +55,7 @@
 ### `Links: `
 
 <div align="left">
-  <a href="a.mohiyyy@gmail.com" target="_blank">
+  <a href="[a.mohiyyy@gmail.com](https://a.mohiyyy@gmail.com/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/abdelrahman-mohyelden-9a9262344" target="_blank">
